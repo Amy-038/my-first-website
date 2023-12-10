@@ -1,0 +1,10 @@
+body {
+    background: rgb(92, 146, 207);
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: wavy;
+    color: #f7f3f3;
+    text-align: center;
+}
